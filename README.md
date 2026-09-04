@@ -1,8 +1,8 @@
 # Hi, I'm Eduardo Garcia 👋
 
-### 💻 Software Analyst & Developer | Full Stack Developer
+### 💻 Software Analyst & Developer | Full Stack Developer | Data Analyst
 
-📍 Brazil 🇧🇷
+🇧🇷 Brazil
 
 I'm a **Software Analyst and Developer** focused on building web, mobile and
 backend applications, with experience turning real-world requirements into
