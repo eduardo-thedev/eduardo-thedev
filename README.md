@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo Garcia 👋
+# Hi, I'm Eduardo Garcia 🤝
 
 ### 💻 Software Analyst & Developer | Full Stack Developer | Data Analyst
 
